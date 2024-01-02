@@ -1,0 +1,33 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Sample shopping list",
+      "items": [
+        {
+          "id": 1,
+          "item-name": "toilet paper",
+          "purchased": false
+        }
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 1704065676309,
+      "title": "Test1",
+      "items": [
+        {
+          "id": 1,
+          "item-name": "Test1",
+          "purchased": false
+        },
+        {
+          "id": 2,
+          "item-name": "Test2",
+          "purchased": false
+        }
+      ],
+      "updateAt": "2023-12-31T23:34:36.309Z"
+    }
+  ]
+}
