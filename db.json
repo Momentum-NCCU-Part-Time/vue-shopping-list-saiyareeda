@@ -13,26 +13,31 @@
       "updatedAt": "2018-01-01T00:00:00.000Z"
     },
     {
-      "id": 1704170123026,
-      "title": "test",
+      "id": 1704405919346,
+      "title": "Costco",
       "items": [
         {
           "id": 1,
-          "item-name": "xyz",
+          "item-name": "Eggs",
           "purchased": false
         },
         {
           "id": 2,
-          "item-name": "rty",
-          "purchased": false
+          "item-name": "Paneer",
+          "purchased": true
         },
         {
           "id": 3,
-          "item-name": "nyt",
+          "item-name": "Milk",
+          "purchased": false
+        },
+        {
+          "id": 4,
+          "item-name": "Dragon Fruit",
           "purchased": false
         }
       ],
-      "updateAt": "2024-01-02T04:35:23.026Z"
+      "updatedAt": "2024-01-04T22:05:19.346Z"
     }
   ]
 }
